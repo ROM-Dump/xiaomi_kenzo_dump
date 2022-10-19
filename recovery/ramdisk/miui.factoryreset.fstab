@@ -1,0 +1,3 @@
+#device         mount point      fstype        [device2] [length=]
+
+/dev/block/bootdevice/by-name/userdata     /data           ext4    noatime,nosuid,nodev,fsync_mode=nobarrier,reserve_root=32768,resgid=1065        wait,check,fileencryption=ice,wrappedkey,quota,reservedsize=128M,latemount

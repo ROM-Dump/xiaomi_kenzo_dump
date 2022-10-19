@@ -1,0 +1,18 @@
+## kenzo-user 6.0.1 MMB29M V10.2.1.0.MHOMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8952
+- Codename: kenzo
+- Brand: Xiaomi
+- Flavor: kenzo-user
+- Release Version: 6.0.1
+- Id: MMB29M
+- Incremental: V10.2.1.0.MHOMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Xiaomi/kenzo/kenzo:6.0.1/MMB29M/V10.2.1.0.MHOMIXM:user/release-keys
+- OTA version: 
+- Branch: kenzo-user-6.0.1-MMB29M-V10.2.1.0.MHOMIXM-release-keys
+- Repo: xiaomi_kenzo_dump
